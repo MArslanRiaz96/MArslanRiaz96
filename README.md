@@ -55,8 +55,7 @@
 ![Skype](https://img.shields.io/badge/-tf@softwarealliance.dk-000?&logo=Skype&logoColor=00AFF0)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **PROFILE VISITS** 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=MArslanRiaz96.MArslanRiaz96)
+[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6801065)](https://stackoverflow.com/users/6801065/m-arslan-riaz)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MArslanRiaz96)](https://github.com/anuraghazra/github-readme-stats)
 [![Arsam's github stats](https://github-readme-stats.vercel.app/api?username=arsam31&show_icons=true&theme=merko)](https://github.com/MArslanRiaz96)
 [![Arsam's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=8907014&theme=dark)](https://stackoverflow.com/users/6801065/m-arslan-riaz?tab=profile)
