@@ -21,7 +21,7 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **SOCIALMEDIA/Q&A(Happy To connect With Fellow Professionals)**
 
-[![Kafka Apache](https://img.shields.io/badge/-Apache_kafka-000?&logo=LinkedIn&logoColor=	C0C0C0&link=https://linkedin.com/in/arsamrahmaan/)](https://linkedin.com/in/arsamrahmaan/)
+[![Kafka Apache](https://img.shields.io/badge/-Apache_kafka-000?&logo=LinkedIn&logoColor=C0C0C0&link=https://linkedin.com/in/arsamrahmaan/)](https://linkedin.com/in/arsamrahmaan/)
 ![VisualStudioCode](https://img.shields.io/badge/-VisualStudio_Code-000?&logo=visual-studio-code&logoColor=007ACC)
 [![StackOverFlow Badge](https://img.shields.io/badge/-StackOverFlow-000?&logo=stack-overflow&logoColor=FE7A16&link=https://stackoverflow.com/users/8907014/arsam?tab=profile)](https://stackoverflow.com/users/8907014/arsam?tab=profile)
 [![HAckerRank Badge](https://img.shields.io/badge/-HackerRank-000?&logo=hackerrank&logoColor=2EC866&link=https://www.hackerrank.com/arsamrahmaan31)](https://www.hackerrank.com/arsamrahmaan31)
