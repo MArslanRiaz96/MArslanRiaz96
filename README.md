@@ -17,7 +17,7 @@
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-000?&logo=Rabbitmq&logoColor=FF6600)
 ![MicroServicesArchitecture](https://img.shields.io/badge/-Microservices_Architecture-000?&logo=micro:bit&logoColor=00ED00)
 ![ServerLess](https://img.shields.io/badge/-ServerLess-000?&logo=serverless&logoColor=FD5750)
-![CSharp](https://img.shields.io/badge/-CSharp-239120?&logo=serverless&logoColor=FD5750)
+![CSharp](https://img.shields.io/badge/-C_Sharp-239120?&logo=serverless&logoColor=FD5750)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **SOCIALMEDIA/Q&A(Happy To connect With Fellow Professionals)**
 
