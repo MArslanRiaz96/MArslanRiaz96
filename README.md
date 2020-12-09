@@ -17,7 +17,14 @@
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-000?&logo=Rabbitmq&logoColor=FF6600)
 ![MicroServicesArchitecture](https://img.shields.io/badge/-Microservices_Architecture-000?&logo=micro:bit&logoColor=00ED00)
 ![ServerLess](https://img.shields.io/badge/-ServerLess-000?&logo=serverless&logoColor=FD5750)
-![CSharp](https://img.shields.io/badge/-C_Sharp-239120?&logo=C-Sharp&logoColor=FD5750)
+![CSharp](https://img.shields.io/badge/-C-Sharp-000?&logo=C-Sharp&logoColor=239120)
+![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft-SQL-Server-000?&logo=Microsoft-SQL-Server&logoColor=CC2927)
+![CSharp](https://img.shields.io/badge/-C_Sharp-000?&logo=C-Sharp&logoColor=239120)
+![CSharp](https://img.shields.io/badge/-C_Sharp-000?&logo=C-Sharp&logoColor=239120)
+![CSharp](https://img.shields.io/badge/-C_Sharp-000?&logo=C-Sharp&logoColor=239120)
+![CSharp](https://img.shields.io/badge/-C_Sharp-000?&logo=C-Sharp&logoColor=239120)
+![CSharp](https://img.shields.io/badge/-C_Sharp-000?&logo=C-Sharp&logoColor=239120)
+![CSharp](https://img.shields.io/badge/-C_Sharp-000?&logo=C-Sharp&logoColor=239120)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **SOCIALMEDIA/Q&A(Happy To connect With Fellow Professionals)**
 
