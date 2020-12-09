@@ -19,12 +19,12 @@
 ![ServerLess](https://img.shields.io/badge/-ServerLess-000?&logo=serverless&logoColor=FD5750)
 ![CSharp](https://img.shields.io/badge/-C_Sharp-000?&logo=C-Sharp&logoColor=239120)
 ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft_SQL_Server-000?&logo=Microsoft-SQL-Server&logoColor=CC2927)
-![CSharp](https://img.shields.io/badge/-C_Sharp-000?&logo=C-Sharp&logoColor=239120)
-![CSharp](https://img.shields.io/badge/-C_Sharp-000?&logo=C-Sharp&logoColor=239120)
-![CSharp](https://img.shields.io/badge/-C_Sharp-000?&logo=C-Sharp&logoColor=239120)
-![CSharp](https://img.shields.io/badge/-C_Sharp-000?&logo=C-Sharp&logoColor=239120)
-![CSharp](https://img.shields.io/badge/-C_Sharp-000?&logo=C-Sharp&logoColor=239120)
-![CSharp](https://img.shields.io/badge/-C_Sharp-000?&logo=C-Sharp&logoColor=239120)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=Postgresql&logoColor=336791)
+![Apache Kafka](https://img.shields.io/badge/-Apache_Kafka-000?&logo=Apache-Kafka&logoColor=000000)
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=DD0031)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=Mongodb&logoColor=47A248)
+![HTML5](https://img.shields.io/badge/-HTML5p-000?&logo=HTML5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **SOCIALMEDIA/Q&A(Happy To connect With Fellow Professionals)**
 
