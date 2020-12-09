@@ -25,41 +25,29 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=Mongodb&logoColor=47A248)
 ![HTML5](https://img.shields.io/badge/-HTML5p-000?&logo=HTML5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap&logoColor=563D7C)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![jQuery](https://img.shields.io/badge/-jQuery-000?&logo=jQuery&logoColor=0769AD)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **SOCIALMEDIA/Q&A(Happy To connect With Fellow Professionals)**
 
-[![Kafka Apache](https://img.shields.io/badge/-Apache_kafka-000?&logo=Apache-Kafka&logoColor=C0C0C0&link=https://linkedin.com/in/arsamrahmaan/)](https://linkedin.com/in/arsamrahmaan/)
-![VisualStudioCode](https://img.shields.io/badge/-VisualStudio_Code-000?&logo=visual-studio-code&logoColor=007ACC)
-[![StackOverFlow Badge](https://img.shields.io/badge/-StackOverFlow-000?&logo=stack-overflow&logoColor=FE7A16&link=https://stackoverflow.com/users/8907014/arsam?tab=profile)](https://stackoverflow.com/users/8907014/arsam?tab=profile)
-[![HAckerRank Badge](https://img.shields.io/badge/-HackerRank-000?&logo=hackerrank&logoColor=2EC866&link=https://www.hackerrank.com/arsamrahmaan31)](https://www.hackerrank.com/arsamrahmaan31)
-[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-000?&logo=leetcode&logoColor=F89F1B&link=https://leetcode.com/arsamrahmaan31/)](https://leetcode.com/arsamrahmaan31/)
-[![FaceBook Badge](https://img.shields.io/badge/-FaceBook-000?&logo=facebook&logoColor=1877F2&link=https://facebook.com/arsamrahmaan31)](https://facebook.com/arsamrahmaan31)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-000?&logo=Twitter&logoColor=1DA1F2&link=https://twitter.com/arsamrahmaan31)](https://twitter.com/arsamrahmaan31)
-[![Dev Badge](https://img.shields.io/badge/-Dev.to-000?&logo=dev.to&logoColor=0A0A0A&link=https://dev.to/arsam31)](https://dev.to/arsam31)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**FRONTEND/BACKEND(Looking To Collaborate On)**
 
-![CSharp](https://img.shields.io/badge/-CSharp-000?&logo=c-sharp&logoColor=239120)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap&logoColor=563D7C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5&logoColor=E34F26)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=html5&logoColor=1572B6)
-![jQuery](https://img.shields.io/badge/-jQuery-000?&logo=jQuery&logoColor=0769AD)
+[![StackOverFlow Badge](https://img.shields.io/badge/-StackOverFlow-000?&logo=stack-overflow&logoColor=FE7A16&link=https://stackoverflow.com/users/6801065/m-arslan-riaz?tab=profile)](https://stackoverflow.com/users/6801065/m-arslan-riaz?tab=profile)
+[![HAckerRank Badge](https://img.shields.io/badge/-HackerRank-000?&logo=hackerrank&logoColor=2EC866&link=https://www.hackerrank.com/arslanriaz96dev1)](https://www.hackerrank.com/arslanriaz96dev1)
+[![FaceBook Badge](https://img.shields.io/badge/-FaceBook-000?&logo=facebook&logoColor=1877F2&link=https://www.facebook.com/profile.php?id=100005436827354)](https://www.facebook.com/profile.php?id=100005436827354)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=Linkedin&logoColor=0077B5&link=https://www.linkedin.com/in/m-arslan-riaz-5b950a16b/)](https://www.linkedin.com/in/m-arslan-riaz-5b950a16b/)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **IDE/SERVICE-PROVIDER(Tools I Use Daily)**
 
 ![VisualStudio](https://img.shields.io/badge/-VisualStudio-000?&logo=visual-studio&logoColor=5C2D91)
 ![VisualStudioCode](https://img.shields.io/badge/-VisualStudio_Code-000?&logo=visual-studio-code&logoColor=007ACC)
 ![MicrosoftSqlServer](https://img.shields.io/badge/-Microsoft_Sql_Server-000?&logo=microsoft-sql-server&logoColor=CC2927)
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazon-aws&logoColor=EA77FF)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **RESUME/CALLME(For Immediate Contact)**
 
 [![Resume Badge](https://img.shields.io/badge/-MyResume-000?&logo=abb-robotstudio&logoColor=FF9E0F&link=https://drive.google.com/file/d/1otmBzbPAb9-I0drOY8X_N-BuVmjMCk8h/view?usp=sharing)](https://drive.google.com/file/d/1otmBzbPAb9-I0drOY8X_N-BuVmjMCk8h/view?usp=sharing)
-![Contact Me](https://img.shields.io/badge/-+923367065720-000?&logo=whatsapp&logoColor=25D366)
-![Skype](https://img.shields.io/badge/-tf@softwarealliance.dk-000?&logo=Skype&logoColor=00AFF0)
+![Contact Me](https://img.shields.io/badge/-+923212512446-000?&logo=whatsapp&logoColor=25D366)
+![Skype](https://img.shields.io/badge/-arslanriaz96@gmail.com-000?&logo=Skype&logoColor=00AFF0)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **PROFILE VISITS** 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=MArslanRiaz96.MArslanRiaz96)
