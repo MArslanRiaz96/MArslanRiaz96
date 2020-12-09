@@ -1,5 +1,4 @@
 
-![GFDGFDGDFGDFGDFGDFGDFGDFGDFGD](https://github.com/arsam31/arsam31/blob/main/arsam2.gif)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **CERTIFICATIONS/CREDENTIALS(Click The Icon To Verify)**
