@@ -43,9 +43,7 @@
 ![VisualStudioCode](https://img.shields.io/badge/-VisualStudio_Code-000?&logo=visual-studio-code&logoColor=007ACC)
 ![MicrosoftSqlServer](https://img.shields.io/badge/-Microsoft_Sql_Server-000?&logo=microsoft-sql-server&logoColor=CC2927)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**RESUME/CALLME(For Immediate Contact)**
-
-[![Resume Badge](https://img.shields.io/badge/-MyResume-000?&logo=abb-robotstudio&logoColor=FF9E0F&link=https://drive.google.com/file/d/1otmBzbPAb9-I0drOY8X_N-BuVmjMCk8h/view?usp=sharing)](https://drive.google.com/file/d/1otmBzbPAb9-I0drOY8X_N-BuVmjMCk8h/view?usp=sharing)
+**CALLME(For Immediate Contact)**
 ![Contact Me](https://img.shields.io/badge/-+923212512446-000?&logo=whatsapp&logoColor=25D366)
 ![Skype](https://img.shields.io/badge/-arslanriaz96@gmail.com-000?&logo=Skype&logoColor=00AFF0)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
